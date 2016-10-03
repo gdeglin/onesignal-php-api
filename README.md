@@ -16,8 +16,7 @@ The source of the documentation is stored in the `docs/` folder.
 [Read the Documentation for master](https://github.com/norkunas/onesignal-php-api/blob/master/docs/getting-started.md)
 
 [Read the Documentation for 0.1](https://github.com/norkunas/onesignal-php-api/blob/0.1/README.md)
-```
 
-License
+## License
 
 This library is released under the MIT License. See the bundled [LICENSE](https://github.com/norkunas/onesignal-php-api/blob/master/LICENSE) file for details.
