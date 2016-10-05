@@ -11,6 +11,14 @@
          syntaxCheck="false"
          bootstrap="tests/bootstrap.php"
         >
+
+    <php>
+        <!--
+        <server name="USER_AUTH_KEY" value="" />
+        <server name="APPLICATION_ID" value="" />
+        <server name="APPLICATION_AUTH_KEY" value="" />
+        -->
+    </php>
     <testsuites>
         <testsuite name="OneSignal Tests">
             <directory>./tests/OneSignal/</directory>
